@@ -2,7 +2,7 @@
 
 W03 Assignment: Build Web Applications with Blazor.
 Student: Cherry Machado
-This is my project from the Series [Front-end Web Development with .NET for Beginners](https://opensource.microsoft.com/codeofconduct/](https://learn.microsoft.com/en-us/shows/frontend-web-development-with-dotnet-for-beginners/))
+This is my project from the Series [Front-end Web Development with .NET for Beginners](https://learn.microsoft.com/en-us/shows/frontend-web-development-with-dotnet-for-beginners/)
 
 # Contributing
 
