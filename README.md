@@ -1,3 +1,8 @@
+# Class: CSE 325: .NET Software Development
+
+W03 Assignment: Build Web Applications with Blazor.  
+Student: Cherry Machado  
+This is my project from the Series [Build web apps with Blazor](https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/)
 
 # Contributing
 
